@@ -2,7 +2,7 @@
  "app_meta": {
   "alert_banner": "بریکنگ نیوز: ابو ہریرہ کی خفیہ فائلیں لیک ہو گئیں",
   "app_name": "X Trade",
-  "data_version": 3,
+  "data_version": 4,
   "target_name": "ابو ہریرہ"
  },
  "items": [
@@ -95,6 +95,21 @@
    "roast_score": 92,
    "likes_start": 178,
    "shares_start": 43
+  },
+  {
+   "id": "img_07",
+   "title": "آخری فائل: نقصان کی کہانی",
+   "category": "fame",
+   "category_label": "ہال آف فیم",
+   "style": "breaking_news",
+   "suspense_blur": true,
+   "image_url": "https://raw.githubusercontent.com/ma327gb/xtrade-data/main/images/WhatsApp%20Image%202026-11-25%20at%203.43.30%20PM.jpeg",
+   "caption": "ٹریڈنگ میں نقصان ہونے پر ابو ہریرہ رو رو کر اپنے نقصان کے قصے سناتے ہوئے — اور ساتھ بیٹھا یحییٰ خاموش گواہ ہے۔",
+   "drama_level": 99,
+   "viral_risk": 97,
+   "roast_score": 98,
+   "likes_start": 250,
+   "shares_start": 73
   }
  ]
 }
